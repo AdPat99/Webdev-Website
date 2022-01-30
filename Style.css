@@ -23,5 +23,40 @@
  a#Trips {
      text-decoration: none;
      color: black;
-
  }
+ 
+ .nav-link.btn{
+    text-decoration: none;
+    color: black;
+ }
+
+ div.col-sm-6 {
+    height: 400px;
+
+    background-color: powderblue;
+    margin-bottom: 25px;
+    float: left;
+}
+
+div.picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin-top: 7px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+h3 {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+p.beginning {
+    margin-top: 25px;
+}
