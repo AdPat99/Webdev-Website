@@ -4,8 +4,13 @@
  }*/
 
 #BGHead {
-    color: white;
-    background-color: #322e2f;
+    color: #322e2f;
+    background-color: #f8f9fa;
+}
+
+#BGBottom {
+    color: #f8f9fa;
+    background-color:#322e2f;
 }
 
 #BGFiled {
@@ -19,7 +24,7 @@
 }
 
 #BGBody {
-    background: linear-gradient(to top left, #097770 0%, #a9c0a6 100%)
+    background: linear-gradient(to bottom, #ffffff 0%, #322e2f 100%);
 }
 
  h2 {
@@ -46,10 +51,10 @@
  
  .nav-link.btn{
     text-decoration: none;
-    color: white;
+    color: #322e2f;
  }
  .navbar-brand {
-     color: white;
+     color: #322e2f;
  }
 
  #BGPowerblue {
