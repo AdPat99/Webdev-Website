@@ -2,3 +2,26 @@
     display: block;
     margin-top: 0;
  }*/
+
+ h2 {
+     text-transform: capitalize;
+ }
+
+ html {
+     scroll-padding-top: 100vw;
+ }
+
+ #Regions {
+     text-align: center;
+     letter-spacing: 0.1em;
+ }
+
+ #BGTrip {
+     background-color: rgb(233, 233, 233);
+ }
+
+ a#Trips {
+     text-decoration: none;
+     color: black;
+
+ }
