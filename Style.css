@@ -3,6 +3,25 @@
     margin-top: 0;
  }*/
 
+#BGHead {
+    color: white;
+    background-color: #322e2f;
+}
+
+#BGFiled {
+    color: black;
+    background-color: #f8f4eb;
+}
+
+#BGFiled2 {
+    color: black;
+    background-color: #768f9b;
+}
+
+#BGBody {
+    background: linear-gradient(to top left, #097770 0%, #a9c0a6 100%)
+}
+
  h2 {
      text-transform: capitalize;
  }
@@ -27,13 +46,18 @@
  
  .nav-link.btn{
     text-decoration: none;
-    color: black;
+    color: white;
+ }
+ .navbar-brand {
+     color: white;
+ }
+
+ #BGPowerblue {
+    background-color: powderblue; 
  }
 
  div.col-sm-6 {
     height: 400px;
-
-    background-color: powderblue;
     margin-bottom: 25px;
     float: left;
 }
